@@ -1,0 +1,7 @@
+.Ticket {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 16px 0;
+  flex-wrap: wrap;
+}

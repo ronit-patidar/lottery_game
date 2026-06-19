@@ -1,0 +1,13 @@
+.TicketNum {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: #ede9fe;
+  color: #5b21b6;
+  font-weight: bold;
+  font-size: 1.1rem;
+  border-radius: 50%;
+  border: 2px solid #a78bfa;
+}

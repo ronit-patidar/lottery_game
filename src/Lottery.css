@@ -1,0 +1,50 @@
+.Lottery {
+  max-width: 420px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 32px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(124, 58, 237, 0.2);
+}
+
+.Lottery h1 {
+  color: #7c3aed;
+  margin-bottom: 8px;
+  font-size: 2rem;
+}
+
+.Lottery p {
+  color: #6b7280;
+  margin-bottom: 16px;
+}
+
+.Lottery button {
+  margin-top: 20px;
+  padding: 12px 28px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background-color: #7c3aed;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.Lottery button:hover {
+  background-color: #6d28d9;
+}
+
+.Lottery button:active {
+  transform: scale(0.96);
+}
+
+.Lottery h3 {
+  margin-top: 20px;
+  min-height: 1.5em;
+  color: #16a34a;
+  font-size: 1.2rem;
+}
