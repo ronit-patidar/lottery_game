@@ -2,7 +2,9 @@
 
 A simple, interactive lottery game built with React. Buy a ticket, get three random numbers, and see if their sum matches the winning number!
 
-![Lottery Game Screenshot](screenshot.png)
+## Demo
+
+> [Link](https://lottery-game-eosin-eight.vercel.app/)
 
 ## ✨ Features
 
